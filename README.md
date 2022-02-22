@@ -1,4 +1,10 @@
-### Hi there 👋
+### Yo! What's up! 👋
+
+My name is Kevin, I'm a Web developer currently working on [MonClubSportif](https://monclubsportif.com/) for the lovely [Leonard Web Agency](https://leonardagenceweb.com/en/).
+
+I mosly work with Ruby on Rails & Nuxt.js right now, but I'm always looking for new cool tech to try!
+
+Cya! 🍻
 
 <!--
 **WhiskeyKev/WhiskeyKev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
