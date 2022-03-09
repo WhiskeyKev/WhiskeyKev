@@ -2,7 +2,7 @@
 
 My name is Kevin, I'm a Web developer currently working on [MonClubSportif](https://monclubsportif.com/) for the lovely [Leonard Web Agency](https://leonardagenceweb.com/en/).
 
-I mosly work with Ruby on Rails & Nuxt.js right now, but I'm always looking for new cool tech to try!
+I mostly work with Ruby on Rails & Nuxt.js right now, but I'm always looking for new cool tech to try!
 
 Cya! 🍻
 
