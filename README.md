@@ -4,6 +4,8 @@ My name is Kevin, I'm a Web developer currently working on [MonClubSportif](http
 
 I mostly work with Ruby on Rails & Nuxt.js right now, but I'm always looking for new cool tech to try!
 
+You can check me out on [LinkedIn](https://www.linkedin.com/in/kevin-metivier/) too!
+
 Cya! 🍻
 
 <!--
