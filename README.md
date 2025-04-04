@@ -1,6 +1,6 @@
 ### Yo! What's up! 👋
 
-My name is Kevin, I'm a Web developer currently working on [MonClubSportif](https://monclubsportif.com/) for the lovely [Leonard Web Agency](https://leonardagenceweb.com/en/).
+My name is Kevin, I'm a Web developer currently working on [MonClubSportif](https://monclubsportif.com/en) for the lovely [Leonard Web Agency](https://leonardagenceweb.com/en/).
 
 I mostly work with Ruby on Rails & Nuxt.js right now, but I'm always looking for new cool tech to try!
 
