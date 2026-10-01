@@ -4,7 +4,7 @@ My name is Kevin, I'm a developer passionate about web technologies 💻
 
 In constant search of fulfillment through innovation and collaboration 🚀
 
-I mostly work with Ruby on Rails & Nuxt.js right now, but I'm always looking for new cool tech to try!
+I mostly work with Ruby, C# & TS right now, but I'm always looking for new cool tech to try!
 
 You can check me out on [LinkedIn](https://www.linkedin.com/in/kevin-metivier/) too!
 
